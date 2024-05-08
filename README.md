@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyngaru" alt="joyngaru" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@joy_ngaru" target="blank"><img src="https://img.shields.io/twitter/follow/@joy_ngaru?logo=twitter&style=for-the-badge" alt="@joy_ngaru" /></a> </p>
+<p align="left"> <a href="https://twitter.com/joy_ngaru" target="blank"><img src="https://img.shields.io/twitter/follow/@joy_ngaru?logo=twitter&style=for-the-badge" alt="joy_ngaru" /></a> </p>
 
 - 🔭 I’m currently working on [BizListing-Ke](https://github.com/JoyNgaru/BizListing-Ke)
 
