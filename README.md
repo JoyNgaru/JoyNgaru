@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **joywanjikum@gmail.com**
 
-- 📄 Know about my experiences [https://joy-ngaru.carrd.co/](https://joy-ngaru.carrd.co/)
+- 📄 Know about my experiences [http://joyngaru.github.io/](http://joyngaru.github.io/)
 
 - ⚡ Fun fact **A beautiful dev who loves Astrophysics**
 
